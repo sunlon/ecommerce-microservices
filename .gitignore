@@ -66,6 +66,7 @@ files
 .codegraph
 .codex
 .github/prompts
+.venv
 
 ### Flatten-maven-plugin ###
 **/.flattened-pom.xml
